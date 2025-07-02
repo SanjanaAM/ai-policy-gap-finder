@@ -22,10 +22,6 @@ pip install -r requirements.txt
 
 
 📁 Project Structure
-bash
-Copy
-Edit
-.
 ├── data/
 │   ├── iso-controls.json         //Synthetic ISO 27001 controls
 │   ├── internal_policy.txt       //Sample internal policy statements
