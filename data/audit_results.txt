@@ -1,0 +1,24 @@
+✅ A.8.10 - Information Deletion
+💬 PARTIALLY.
+
+The internal policy does not specifically address information deletion, which is a requirement of ISO control A.8.10. While it mentions backups being taken daily and tested weekly for integrity, it does not specify what happens to the backed-up data when it is no longer required. The policy does not provide guidance on deleting sensitive or critical information once it is no longer needed.
+
+To meet this control, the internal policy would need to be updated to include procedures for deleting information that is no longer required, such as a retention schedule and guidelines for securely erasing or destroying physical media containing sensitive data.
+============================================================
+✅ A.8.11 - Data Masking
+💬 PARTIALLY.
+
+The internal policy mentions that "sensitive data is masked in staging environments to prevent exposure", which partially meets the ISO control A.8.11 requirement for data masking. The policy does not explicitly state that data masking will be used to limit exposure of sensitive data, but it does mention that sensitive data will be masked in staging environments, which suggests an attempt to limit exposure.
+
+To fully meet this control, the internal policy should explicitly state that data masking will be used to limit exposure of sensitive data, and provide more details on how this will be achieved.
+============================================================
+✅ A.9.1 - Access Control Policy
+💬 PARTIALLY.
+
+The internal policy meets the requirement of being "established" and "documented", as it is written down and available for review. However, it does not specify how often the policy will be reviewed, which is required by the ISO control (A.9.1). The internal policy only mentions reviewing annually, but the standard requires a more detailed plan for reviewing the policy.
+============================================================
+✅ A.12.3 - Backup
+💬 YES.
+
+The policy states that "Backups of all critical information are taken daily and tested weekly for integrity", which meets the requirement in ISO control A.12.3 - Backup to take backups regularly. The frequency of daily backups and weekly testing also exceeds the minimum requirement of regular testing, indicating a good level of compliance with this control.
+============================================================
