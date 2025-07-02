@@ -1,0 +1,41 @@
+{
+  "standard": "ISO/IEC 27001:2022",
+  "version": "2022",
+  "domains": [
+    {
+      "title": "A.8 Asset Management",
+      "controls": [
+        {
+          "ref": "A.8.10",
+          "title": "Information Deletion",
+          "summary": "Information shall be deleted when no longer required."
+        },
+        {
+          "ref": "A.8.11",
+          "title": "Data Masking",
+          "summary": "Data masking shall be used to limit exposure of sensitive data."
+        }
+      ]
+    },
+    {
+      "title": "A.9 Access Control",
+      "controls": [
+        {
+          "ref": "A.9.1",
+          "title": "Access Control Policy",
+          "summary": "An access control policy shall be established, documented, and reviewed."
+        }
+      ]
+    },
+    {
+      "title": "A.12 Operations Security",
+      "controls": [
+        {
+          "ref": "A.12.3",
+          "title": "Backup",
+          "summary": "Backups of information shall be taken and tested regularly."
+        }
+      ]
+    }
+  ]
+}
