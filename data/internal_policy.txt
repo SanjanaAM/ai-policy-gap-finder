@@ -1,0 +1,4 @@
+- An access control policy is documented and reviewed annually.
+- All user access is role-based and periodically reviewed.
+- Backups of all critical information are taken daily and tested weekly for integrity.
+- Sensitive data is masked in staging environments to prevent exposure.
