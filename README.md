@@ -27,12 +27,12 @@ Copy
 Edit
 .
 ├── data/
-│   ├── iso-controls.json         # Synthetic ISO 27001 controls
-│   ├── internal_policy.txt       # Sample internal policy statements
-│   └── audit_results.txt         # Generated audit feedback
-├── policy-gap-finder.py          # Main AI evaluation script
-├── requirements.txt              # Python dependency
-└── README.md                     # Project overview
+│   ├── iso-controls.json         //Synthetic ISO 27001 controls
+│   ├── internal_policy.txt       //Sample internal policy statements
+│   └── audit_results.txt         
+├── policy-gap-finder.py          
+├── requirements.txt              
+└── README.md                    
 
 
 ✅ Features
